@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Wed Jun 16 11:45:26 2021
-
-@author: bingb
+Edoardo Chen
 """
 from selenium import webdriver
 import time
