@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Thu Jun 17 18:01:22 2021
-
 @author: bingb
 """
 
