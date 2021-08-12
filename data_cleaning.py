@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Thu Jun 17 18:08:43 2021
-
-@author: bingb
+@author: Edoardo Chen
 """
 
 import pandas as pd
