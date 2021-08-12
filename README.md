@@ -1,6 +1,8 @@
 # Linkedin_scaper
 
-I have done the linkedin scraper with Selinium library and it return a datafram with the following characteristic:
+
+
+<h1>I have done the linkedin scraper with Selinium library and it return a datafram with the following characteristic:</h1>
     - dates 
     - positions 
     - companies 
