@@ -3,7 +3,7 @@
 
 
 <h3>I have done the linkedin scraper with Selinium library and it return a datafram with the following characteristic:</h3>
-<list>
+<ul>
     - dates 
     - positions 
     - companies 
@@ -15,7 +15,7 @@
     - experience_needs 
     - employees 
     - job_categories 
-</list>
+</ul>
 
 And i have done some data cleaning with a analysis in jupiter notebook.
 Hope it will help you or inspire you !
