@@ -4,17 +4,17 @@
 
 <h3>I have done the linkedin scraper with Selinium library and it return a datafram with the following characteristic:</h3>
 <ul>
-    - dates 
-    - positions 
-    - companies 
-    - locations 
-    - descriptions 
-    - pasts_time 
-    - candidates 
-    - work_times 
-    - experience_needs 
-    - employees 
-    - job_categories 
+    <li> dates</li> 
+    <li> positions </li> 
+    <li> companies </li> 
+    <li> locations </li> 
+    <li> descriptions </li> 
+    <li> pasts_time </li> 
+    <li> candidates </li> 
+    <li> work_times </li> 
+    <li> experience_needs </li> 
+    <li> employees </li> 
+    <li> job_categories </li> 
 </ul>
 
 And i have done some data cleaning with a analysis in jupiter notebook.
