@@ -13,8 +13,8 @@ chrome_driver_path = r"C:\Users\bingb\PycharmProjects\chromedriver.exe"
 
 # Username, password, keywords of the job to search, location, num dataset
 
-email = "bingbochen8@gmail.com"
-password = "qeid6300bi"
+email = "*********"
+password = ""*********""
 keywords = "Data scientist"
 location = "Italia"
 num_dataset = 400
