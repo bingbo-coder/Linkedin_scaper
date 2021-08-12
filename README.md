@@ -1,8 +1,9 @@
-# Linkedin_scaper
+# Linkedin_scaper Italy Data Science job analysis 
 
 
 
-<h1>I have done the linkedin scraper with Selinium library and it return a datafram with the following characteristic:</h1>
+<h3>I have done the linkedin scraper with Selinium library and it return a datafram with the following characteristic:</h3>
+<list>
     - dates 
     - positions 
     - companies 
@@ -14,6 +15,7 @@
     - experience_needs 
     - employees 
     - job_categories 
+</list>
 
 And i have done some data cleaning with a analysis in jupiter notebook.
 Hope it will help you or inspire you !
