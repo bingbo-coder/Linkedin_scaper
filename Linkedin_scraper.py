@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Edoardo Chen
+Bingbo Chen
 """
 from selenium import webdriver
 import time
